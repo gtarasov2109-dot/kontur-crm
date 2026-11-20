@@ -3,7 +3,7 @@ import { FREE_CLIENTS_LIMIT } from '../data/specializations';
 import { ensureISODateYYYYMMDD } from '../utils/formatters';
 
 export const SUPABASE_BASE_URL = '';
-const SUPABASE_API_KEY = 'sb_publishable_DPMIU24eWSc9RLhxAcGAXw_41_vhzqw';
+const SUPABASE_API_KEY = 'sb_publishable_DPMiU24eWSc9RLhxAcGAXw_41_vhzqw';
 
 export interface SyncStatusInfo {
   ok: boolean;
