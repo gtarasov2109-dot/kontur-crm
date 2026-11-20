@@ -2,7 +2,7 @@ import { BeautyClientRow, BeautyMasterRow, SpecializationId } from '../types/crm
 import { FREE_CLIENTS_LIMIT } from '../data/specializations';
 import { ensureISODateYYYYMMDD } from '../utils/formatters';
 
-export const SUPABASE_BASE_URL = 'https://sufurbgmbllxjlqdnybn.supabase.co';
+export const SUPABASE_BASE_URL = '';
 const SUPABASE_API_KEY = 'sb_publishable_DPMIU24eWSc9RLhxAcGAXw_41_vhzqw';
 
 export interface SyncStatusInfo {
