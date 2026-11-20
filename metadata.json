@@ -1,0 +1,8 @@
+{
+  "name": "KONTUR // CRM",
+  "description": "CRM-система удержания и возврата клиентов для бьюти-мастеров, барбершопов, нейл-студий и косметологов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
